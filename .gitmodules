@@ -1,0 +1,3 @@
+[submodule "bb-st-test-git-submodule"]
+	path = bb-st-test-git-submodule
+	url = git@bitbucket.org:mminns/st-test-git-submodule.git
